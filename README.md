@@ -36,13 +36,13 @@
 
 ## 💻 Current Skills:
 ---
-###🌐 Web & Programming
-*HTML
-*CSS
-*JavaScript
-*Python
-*Java
-*PHP
+### 🌐 Web & Programming
+* HTML
+* CSS
+* JavaScript
+* Python
+* Java
+* PHP
 
 ### 📱 Application & System Development
 * Mobile Application Architecture
