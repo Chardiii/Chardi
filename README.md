@@ -125,3 +125,21 @@ Below are my certificates from the `Certificates` folder. Image files are displa
 - [VELUZ E-Certificate.pdf](Certificates/VELUZ E-Certificate.pdf)
 - [_certificate_veluz-richard-gmail-com_77b256cc-14de-42ed-8c1c-500c0499ecca.pdf](Certificates/_certificate_veluz-richard-gmail-com_77b256cc-14de-42ed-8c1c-500c0499ecca.pdf)
 
+
+📚 Academic Projects:
+
+# 🚨 Rapid Reach — Emergency Hotlines and Response System
+
+**Rapid Reach** is a web-based emergency information and response platform designed to provide users with quick access to emergency hotlines, procedures, and safety guides. It allows users to find important emergency contact numbers, learn step-by-step procedures for different emergency situations, and submit incident reports with supporting evidence.
+
+**Technologies Used:**
+
+* HTML
+* CSS
+* JavaScript
+* Python
+* Flask
+* MySQL
+* XAMPP
+
+
