@@ -6,7 +6,10 @@
 ✨ I enjoy turning ideas into useful and creative applications, establishing solid conceptual frameworks, and continuously improving my technical skills through practical projects and academic research.
 
 **Interests:**
-
+* Game Development
+* 3D Design
+* Machine Learning
+* AR/VR
 * Mobile Application Development
 * E-commerce Platforms
 * Database Management
