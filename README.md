@@ -128,7 +128,7 @@ Below are my certificates from the `Certificates` folder. Image files are displa
 
 📚 Academic Projects:
 
-# 🚨 Rapid Reach — Emergency Hotlines and Response System
+### 🚨 Rapid Reach — Emergency Hotlines and Response System
 
 **Rapid Reach** is a web-based emergency information and response platform designed to provide users with quick access to emergency hotlines, procedures, and safety guides. It allows users to find important emergency contact numbers, learn step-by-step procedures for different emergency situations, and submit incident reports with supporting evidence.
 
@@ -142,4 +142,26 @@ Below are my certificates from the `Certificates` folder. Image files are displa
 * MySQL
 * XAMPP
 
+### 👔 Mode S7VN — Multi-Vendor E-Commerce Platform
 
+**Mode S7VN** is a modern, web-based e-commerce marketplace focused on premium men's apparel. It was developed to handle complex e-commerce logic, featuring dedicated portals and dashboards for distinct user roles (Admins, Sellers, Buyers, and Riders), real-time variant-level inventory management, and automated order tracking.
+
+**Technologies Used:**
+
+* Python (Flask)
+* Jinja2 (Templating)
+* Tailwind CSS
+* JavaScript
+* MySQL (via SQLyog)
+
+###🧴 Her Perfume — E-Commerce Website
+
+**Her Perfume is an academic e-commerce project focused on selling perfumes through a web-based platform. The project was created to apply web development concepts and design a user-friendly online shopping experience.
+
+Technologies Used:
+
+*PHP
+*CSS
+*JavaScript
+*MySQL
+*XAMPP
