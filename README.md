@@ -96,7 +96,7 @@ Below are my certificates from the `Certificates` folder. Image files are displa
 - [_certificate_veluz-richard-gmail-com_77b256cc-14de-42ed-8c1c-500c0499ecca.pdf](Certificates/_certificate_veluz-richard-gmail-com_77b256cc-14de-42ed-8c1c-500c0499ecca.pdf)
 
 
-📚 Academic Projects:
+## 📚 Academic Projects:
 
 ### 🚨 Rapid Reach — Emergency Hotlines and Response System
 
